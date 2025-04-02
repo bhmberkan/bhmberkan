@@ -30,6 +30,23 @@
 <a href="https://www.instagram.com/bhmberkan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/berkan-turgut-2a277a232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
+
+
+</div>
+
+<br>
+
+
+## 💻 Tech Stack:
+
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mssql,mysql,postman,redis,stackoverflow,github&perline=11" />
+</a>
+
+
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="MSSQL"/>
@@ -49,20 +66,6 @@
 </p>
 
 
-
-
-</div>
-
-<br>
-
-
-## 💻 Tech Stack:
-
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mssql,mysql,postman,redis,stackoverflow,github&perline=11" />
-</a>
 
 </div>
 
