@@ -44,13 +44,11 @@
 
 <a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mssql,mysql,postman,redis,stackoverflow,github&perline=11" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="MSSQL"/>
 </a>
 
 
 
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="MSSQL"/>
-  </a>
  
 
 
