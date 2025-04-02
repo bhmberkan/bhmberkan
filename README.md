@@ -29,7 +29,27 @@
 
 <a href="https://www.instagram.com/bhmberkan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/berkan-turgut-2a277a232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="fa-solid fa-database">
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="MSSQL"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Photoshop_Lightroom_CC_logo.svg" width="50" alt="Adobe Lightroom"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/ef/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Entity_Framework.png" width="50" alt="Entity Framework"/>
+  </a>
+  <a href="https://www.devexpress.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DevExpress_Logo.png" width="50" alt="DevExpress"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Photography">
+    <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="50" alt="Photography"/>
+  </a>
+</p>
+
+
+
 
 </div>
 
