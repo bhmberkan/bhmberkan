@@ -41,7 +41,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mssql,mysql,postman,redis,github&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mssql,mysql,postman,redis,stackoverflow,github&perline=11" />
 </a>
 
 </div>
@@ -58,7 +58,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhmberkan&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhmberkan&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=bhmberkan&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=bhmberkan&theme=radical">
+
 
 </div><br>
 
