@@ -43,8 +43,8 @@
 <div align="center">
 
 <a href="#" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" widht:"50";  alt="MSSQL"/>
-<img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mysql,postman,redis,stackoverflow,github&perline=11" />
+
+<img src="https://skillicons.dev/icons?i=html,css,codepen,bootstrap,arduino,c,cs,dotnet,php,mysql,postman,redis,stackoverflow,github&perline=11,https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
 </a>
 
